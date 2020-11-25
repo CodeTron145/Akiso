@@ -21,6 +21,6 @@ References
    2. https://www.facebook.com/osd.xml
    3. https://www.facebook.com/unsupportedbrowser
    4. https://www.facebook.com/unsupportedbrowser
-   5. https://l.facebook.com/l.php?u=https://www.google.com/chrome/browser/&h=AT3uI-qq7MnRdNxPRfR9uy14TthrtlqLLcwHbDyKtYV97WMIBTOTmYFG8-ESPs1ZuP-ABSddKaEZWiPAqjY34cf8SwUksHHENBLrGKrJ4DF0VPWAFWFIl9QEoPSb3mHASGnfE35Rf2rr36HLnz9ZcONiy9XCiA
-   6. https://l.facebook.com/l.php?u=https://www.mozilla.org/firefox/new/?utm_source=facebook&utm_medium=referral&utm_campaign=unsupported-browser-notification&h=AT2jLJwTpRqpzp1GPxl4pHstj5btRZrU70EtA1wvsVIpalsKbu_yDz3wYeFzvxYxnGnC3P8L-0tCRbSfA7LzzrMkqe-1wloZ46nKB07nGwMVVMyQtumoMXqv9NfBlhG46hF6JsjGQhitaDaP
+   5. https://l.facebook.com/l.php?u=https://www.google.com/chrome/browser/&h=AT0RO0sRCTox6wEmc9l_lm4TIHzX4kxjIIh4m9dOYoia8zA9o_uSFAGs7kjFAs6918-HfrsKd6FwCYTJjtbb6cS624EXPxFDjPOj2n3ERMDwl33VpVgMnbxjLRcrzpPThZGFBdEfZt-PTY-7
+   6. https://l.facebook.com/l.php?u=https://www.mozilla.org/firefox/new/?utm_source=facebook&utm_medium=referral&utm_campaign=unsupported-browser-notification&h=AT3yHNTBhFlgcuQuttcDEyKRc_FfxZJRlZ8DRPT4euBy0pLgTSbsUZOdcHvgsKyYNhH7hFrKUWDob-nqLn_q38HlSTcaVHEtPAghpgj7lFLCotgIoKCOm7tU0A6L7ReuW8SBay-IA0_ZlqjX
    7. https://www.facebook.com/mobile
